@@ -1,0 +1,9 @@
+﻿  integrator.cpp
+c:\users\nikolayshvets\source\repos\integration\integration\integrator.cpp(84): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\nikolayshvets\source\repos\integration\integration\integrator.cpp(154): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\nikolayshvets\source\repos\integration\integration\integrator.cpp(155): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\nikolayshvets\source\repos\integration\integration\integrator.cpp(168): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\nikolayshvets\source\repos\integration\integration\integrator.cpp(171): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\nikolayshvets\source\repos\integration\integration\integrator.cpp(193): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\nikolayshvets\source\repos\integration\integration\integrator.cpp(196): warning C4018: <: несоответствие типов со знаком и без знака
+  integration.vcxproj -> C:\Users\NikolayShvets\source\repos\integration\Debug\integration.exe
